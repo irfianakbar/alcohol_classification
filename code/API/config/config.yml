@@ -1,3 +1,0 @@
-xgboost_model_path: model/xgboost_model.pkl
-ann_model_path: model/ann_model.h5
-std_scaler_path: model/std_scaler.bin
